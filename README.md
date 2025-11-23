@@ -5,7 +5,7 @@
 ---
 
 #### 1. [jwilliams-gh-green](https://github.com/jwilliams-gh-green/)
-:green-heart: My "green" org is made up of public repositories that have hit MLP (**M**inimal **L**oveable:heart: **P**roduct) status.
+:green_heart: My "green" org is made up of public repositories that have hit MLP (**M**inimal **L**oveable:heart: **P**roduct) status.
 
 #### 2. [jwilliams-gh-red](https://github.com/jwilliams-gh-red/)
 My "red" org is made up of private repositories.
