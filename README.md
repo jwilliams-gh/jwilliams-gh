@@ -1,6 +1,6 @@
 # Hi, I'm Josh Williams! :wave:. Welcome to my personal GitHub profile.
 
-### I do most of my work in my orgs than than directly tied to my profile. $${\color{red}Why}$$ :thinking:!? Because I prefer to manage my personal work like an enterprise. See each org below for more info.
+### I do most of my work in my orgs rather than directly tied to my profile. $${\color{red}Why}$$ :thinking:!? Because I prefer to manage my personal work like an enterprise. See each org below for more info.
 
 ---
 
