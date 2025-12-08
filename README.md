@@ -26,5 +26,9 @@ My "archive" org is made up of repos that are no longer contributed to.
 
 ---
 
-## Hit Counter
+## Visitor Stats
 <a href="https://smallcounter.com"><img src="https://smallcounter.com/count.php?c_style=48&id=1765223906" border=0 alt="web counter"></a><br><a href="https://smallcounter.com" style="font-size:9px;"></a><br>
+<a title="free world map tracker" href="https://smallcounter.com/vmap/1765224023/">
+<img title="free world map counter" src="https://smallcounter.com/map/view.php?type=180&id=1765224023" border="1" alt="world map hits counter" /></a><br>
+<a href="https://smallcounter.com"></a>
+	  
