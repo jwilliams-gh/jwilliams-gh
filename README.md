@@ -23,3 +23,8 @@ My "sandbox" org is made up of WIPs.
 
 #### 📚 [jwilliams-gh-archive](https://github.com/jwilliams-gh-archive/)
 My "archive" org is made up of repos that are no longer contributed to.
+
+---
+
+## Hit Counter
+<a href="https://smallcounter.com"><img src="https://smallcounter.com/count.php?c_style=48&id=1765223906" border=0 alt="web counter"></a><br><a href="https://smallcounter.com" style="font-size:9px;"></a><br>
