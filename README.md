@@ -1,10 +1,15 @@
 ## Hi, I'm Josh Williams! :wave:. Welcome to my personal GitHub profile.
 
-#### I do most of my work in [my orgs](https://github.com/search?q=org%3Ajwilliams-gh-green+OR+org%3Ajwilliams-gh-sandbox+OR+org%3Ajwilliams-gh-archived++&type=code) rather than directly tied to my profile. $${\color{red}Why}$$ :thinking:!? Because I prefer to manage my personal work like an enterprise. See each org below for more info.
+#### I do most of my work in [my orgs](https://github.com/search?q=org%3Ajwilliams-gh-green+OR+org%3Ajwilliams-gh-sandbox+OR+org%3Ajwilliams-gh-archived++&type=code) rather than directly tied to my profile. $${\color{red}Why}$$ :thinking:!? Because I prefer to govern my personal work like an enterprise. See each org below for more info.
 
+Check out my github.io page - [https://jwilliams-gh.github.io/](https://jwilliams-gh.github.io/). This is currently (12/12/25) a WIP.
+
+---
 
 #### 💚 [jwilliams-gh-green](https://github.com/jwilliams-gh-green/)
-My "green" org is made up of public repositories that have hit MLP (**M**inimal **L**oveable **P**roduct) status.
+My "green" org is made up of **public** repositories that have hit either MVP or MLP (**M**inimal **L**oveable **P**roduct) status.
+
+Base permissions are set to _No permission_. The theme of the org is to open-source reads and inner-source writes.
 
 ##### Repos:
 📌 [copilot-measurement](https://github.com/jwilliams-gh-green/copilot-measurement)
